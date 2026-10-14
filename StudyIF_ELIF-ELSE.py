@@ -32,3 +32,4 @@ else:
     print('Número inválido!')
 
 print('Fim do programa!')
+print('Obrigado por participar!')
