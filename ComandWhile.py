@@ -14,10 +14,9 @@ print('FIM!')
 
 
 # Desafio 2
-num = 0
-num = int(input('Digite um número: '))
+num = int(input('Digite um número (ou 0 para sair): '))
 
 while num != 0:
     num = int(input('Digite mais uma vez: '))
-        
+
 print('Fim!')
